@@ -14,6 +14,8 @@
 **Libraries:** jQuery  
 **Designer:** Sergey Pozhilov  
 
+foo
+
 ## Installation
 
 ```
